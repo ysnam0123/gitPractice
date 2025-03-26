@@ -1,0 +1,8 @@
+1️⃣ 원격 저장소 확인: git remote -v
+2️⃣ 필요하면 기존 원격 저장소 삭제: git remote remove origin
+3️⃣ 새 원격 저장소 추가: git remote add origin https://github.com/ysnam0123/gitPractice.git
+4️⃣ 브랜치 연결: git branch --set-upstream-to=origin/main main
+5️⃣ 원격 저장소와 동기화: git fetch origin && git pull
+6️⃣ 변경 사항 푸시: git push -u origin main
+
+git 연습중입니다.
